@@ -1,110 +1,179 @@
-<div align="center">
-<!-- Replace this banner with your own image later if you wish -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:101827,50:16324F,100:6D5EF5&text=SABARISHWARAN&fontColor=FFFFFF&fontSize=42&fontAlignY=43&desc=Computer%20Science%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=68&descSize=14" width="100%" alt="Sabarishwaran profile banner" />
-<br/>
+ <div align="center">
+
+# Hey, I'm Sabarishwaran 👋
+
+### Computer Science Engineering Student · Software Developer · AI Enthusiast
+
+*Building ideas into practical applications, one project at a time.*
+
 <a href="https://github.com/A-SABARISHWARAN">
-  <img src="https://img.shields.io/badge/GitHub-A--SABARISHWARAN-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://rehab-nexus.netlify.app/">
-  <img src="https://img.shields.io/badge/Live%20Project-Rehab%20Nexus-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus live demo" />
+  <img src="https://img.shields.io/badge/Rehab_Nexus-Live_Demo-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus"/>
 </a>
-<br/><br/>
-Curious by nature. Building by practice. Improving with every iteration.
+
 </div>
+
 ---
-👋 About Me
-Hi! I'm Sabarishwaran, a Computer Science and Engineering student at Sathyabama Institute of Science and Technology. I enjoy turning ideas into practical applications, exploring AI-powered solutions, and learning how software works from the inside out.
-🎓 Pursuing a B.E. in Computer Science and Engineering
-💻 Interested in software development, full-stack engineering, and AI
-🧠 Practising Data Structures & Algorithms and preparing for technical interviews
-🚀 Building projects focused on usability and real-world problems
-🌱 Continuously improving my development skills and core CS fundamentals
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science and Engineering student at Sathyabama Institute of Science and Technology**, passionate about software development, AI-powered applications, and solving real-world problems through technology.
+
+I enjoy experimenting with new technologies, building useful projects, and continuously improving my problem-solving skills.
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering
+- 💻 Exploring full-stack development and software engineering
+- 🧠 Practising Data Structures and Algorithms
+- 🤖 Interested in AI-powered applications and practical innovation
+- 🌱 Strengthening my programming skills and core Computer Science fundamentals
+
 ---
-🧰 Tech Stack
-<div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=light" alt="Python, Java, C and JavaScript" />
-Web & Application Development
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=light" alt="HTML, CSS, React, Tailwind CSS, Node.js and Express" />
-Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,git,github,vscode&theme=light" alt="MongoDB, Firebase, MySQL, Git, GitHub and VS Code" />
-</div>
-<p align="center"><sub>My toolkit evolves as I learn, experiment, and build. Some technologies are used across projects and may vary by implementation.</sub></p>
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=light" alt="C, Python, Java, JavaScript"/>
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=light" alt="HTML, CSS, React, Tailwind CSS, Node.js, Express"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode&theme=light" alt="MongoDB, MySQL, Firebase, Git, GitHub, VS Code"/>
+</p>
+
+<sub>My technology stack evolves as I learn and build new projects.</sub>
+
 ---
-🚀 Featured Projects
+
+## 🚀 Featured Projects
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩺 Rehab Nexus</h3>
-      <p><strong>Rehabilitation Support Platform</strong></p>
-      <p>A web-based project focused on rehabilitation support and an accessible user experience.</p>
-      <p><a href="https://rehab-nexus.netlify.app/"><strong>↗ Explore live demo</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🃏 FlashJ</h3>
-      <p><strong>AI-Powered Learning Platform</strong></p>
-      <p>An AI-assisted learning application designed to generate flashcards and MCQs for focused revision and practice.</p>
-      <p><a href="https://github.com/A-SABARISHWARAN"><strong>↗ Explore on GitHub</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍳 CookSmart</h3>
-      <p><strong>AI Recipe Assistant</strong></p>
-      <p>A cooking assistant concept that helps users discover recipe ideas based on the ingredients they have available.</p>
-      <p><a href="https://github.com/A-SABARISHWARAN"><strong>↗ Explore on GitHub</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍱 FoodRescue</h3>
-      <p><strong>Food Redistribution Platform</strong></p>
-      <p>A project focused on connecting surplus food with people and organisations that may benefit from it.</p>
-      <p><a href="https://github.com/A-SABARISHWARAN"><strong>↗ Explore on GitHub</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📸 AI-Powered Photo Search</h3>
-      <p><strong>Natural-Language Image Discovery</strong></p>
-      <p>An AI-assisted photo album search concept for finding relevant images using everyday language.</p>
-      <p><a href="https://github.com/A-SABARISHWARAN"><strong>↗ Explore on GitHub</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌚ Mining Safety Wearable</h3>
-      <p><strong>IoT-Based Worker Safety</strong></p>
-      <p>A wearable safety concept using sensors and wireless communication to support worker alerts in mining environments.</p>
-      <p><a href="https://github.com/A-SABARISHWARAN"><strong>↗ Explore on GitHub</strong></a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Rehab Nexus
+
+**Rehabilitation Support Platform**
+
+A web-based project focused on rehabilitation support and an accessible user experience.
+
+**[🌐 View Live Demo](https://rehab-nexus.netlify.app/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 FlashJ
+
+**AI-Powered Learning Platform**
+
+An AI-assisted learning application that generates flashcards and multiple-choice questions to make revision and practice more effective.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍳 CookSmart
+
+**AI Recipe Assistant**
+
+An AI-powered cooking assistant that helps users explore recipe ideas based on ingredients they already have.
+
+</td>
+<td width="50%" valign="top">
+
+### 🍱 FoodRescue
+
+**Food Redistribution Platform**
+
+A project focused on connecting surplus food with people and organisations that can benefit from it.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 AI-Powered Photo Search
+
+**Natural-Language Image Discovery**
+
+An AI-assisted photo album search concept that helps users find relevant images through natural-language queries.
+
+</td>
+<td width="50%" valign="top">
+
+### ⌚ Mining Safety Wearable
+
+**IoT-Based Worker Safety**
+
+A wearable safety concept using sensors and wireless communication to support alerts in mining environments.
+
+</td>
+</tr>
 </table>
-<p align="center"><sub>Project links currently point to my GitHub profile where a dedicated repository URL is not listed here yet.</sub></p>
----
-📈 GitHub at a Glance
+
 <div align="center">
-<a href="https://github.com/A-SABARISHWARAN">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=A-SABARISHWARAN&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics for A-SABARISHWARAN" />
-</a>
-<a href="https://github.com/A-SABARISHWARAN">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-SABARISHWARAN&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages for A-SABARISHWARAN" />
-</a>
-<br/>
-<img src="https://streak-stats.demolab.com?user=A-SABARISHWARAN&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+**[Explore My GitHub Repositories →](https://github.com/A-SABARISHWARAN?tab=repositories)**
+
 </div>
+
 ---
-🎯 Current Focus
-Strengthening Data Structures & Algorithms through consistent practice
-Building useful, well-structured software projects
-Improving full-stack development and backend engineering
-Deepening my understanding of core Computer Science subjects
-Preparing for software engineering internships and placement opportunities
----
-🤝 Let's Connect
+
+## 📊 GitHub Statistics
+
 <div align="center">
+
 <a href="https://github.com/A-SABARISHWARAN">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=A-SABARISHWARAN&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/A-SABARISHWARAN">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-SABARISHWARAN&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=A-SABARISHWARAN&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Improve my Data Structures and Algorithms skills
+- 💡 Build meaningful projects with clean, maintainable code
+- 🌐 Strengthen my full-stack and backend development skills
+- 🧩 Develop a deeper understanding of core Computer Science subjects
+- 🚀 Prepare for software engineering internships and placement opportunities
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, sharing ideas, and collaborating on projects that create meaningful impact.
+
+<div align="center">
+
+<a href="https://github.com/A-SABARISHWARAN">
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 <a href="https://rehab-nexus.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Rehab%20Nexus-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus" />
+  <img src="https://img.shields.io/badge/Rehab%20Nexus-Visit%20Project-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus"/>
 </a>
+
 <br/><br/>
-“Build with curiosity. Learn by doing. Improve with every iteration.” 🚀
+
+*“Build with curiosity. Learn by doing. Improve with every iteration.”* 🚀
+
 </div>
