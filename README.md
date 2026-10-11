@@ -1,179 +1,100 @@
- <div align="center">
-
 # Hey, I'm Sabarishwaran 👋
 
-### Computer Science Engineering Student · Software Developer · AI Enthusiast
+### Computer Science Engineering Student | Software Developer | AI & Full-Stack Enthusiast
 
-*Building ideas into practical applications, one project at a time.*
+I'm a Computer Science Engineering student at Sathyabama Institute of Science and Technology, passionate about building practical software solutions, exploring AI-powered applications, and strengthening my problem-solving skills.
 
-<a href="https://github.com/A-SABARISHWARAN">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://rehab-nexus.netlify.app/">
-  <img src="https://img.shields.io/badge/Rehab_Nexus-Live_Demo-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus"/>
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Computer Science and Engineering student at Sathyabama Institute of Science and Technology**, passionate about software development, AI-powered applications, and solving real-world problems through technology.
-
-I enjoy experimenting with new technologies, building useful projects, and continuously improving my problem-solving skills.
+I enjoy turning ideas into working projects, learning new technologies, and building applications that solve real-world problems.
 
 - 🎓 Pursuing B.E. in Computer Science and Engineering
-- 💻 Exploring full-stack development and software engineering
-- 🧠 Practising Data Structures and Algorithms
-- 🤖 Interested in AI-powered applications and practical innovation
-- 🌱 Strengthening my programming skills and core Computer Science fundamentals
+- 💻 Interested in Software Development, Full-Stack Development, and AI
+- 🧠 Practicing Data Structures & Algorithms and preparing for technical interviews
+- 🚀 Building projects that combine creativity, technology, and practical problem-solving
+- 🌱 Currently strengthening my development skills and computer science fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=light" alt="C, Python, Java, JavaScript"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Web Development
+**Web & Application Development**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express&theme=light" alt="HTML, CSS, React, Tailwind CSS, Node.js, Express"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Databases & Tools
+**Databases, Tools & Platforms**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode&theme=light" alt="MongoDB, MySQL, Firebase, Git, GitHub, VS Code"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<sub>My technology stack evolves as I learn and build new projects.</sub>
+*My tech stack evolves as I learn and build new projects.*
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Rehab Nexus
-
-**Rehabilitation Support Platform**
+### 🩺 Rehab Nexus — Rehabilitation Support Platform
 
 A web-based project focused on rehabilitation support and an accessible user experience.
 
-**[🌐 View Live Demo](https://rehab-nexus.netlify.app/)**
+🔗 [Explore the live demo](https://rehab-nexus.netlify.app/)
 
-</td>
-<td width="50%" valign="top">
+### 🃏 FlashJ — AI-Powered Learning Platform
 
-### 🃏 FlashJ
+An AI-assisted learning application designed to generate flashcards and multiple-choice questions, helping learners revise concepts and practice more effectively.
 
-**AI-Powered Learning Platform**
+### 🍳 CookSmart — AI Recipe Assistant
 
-An AI-assisted learning application that generates flashcards and multiple-choice questions to make revision and practice more effective.
+An AI-powered cooking assistant that helps users discover recipe ideas based on available ingredients.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🍱 FoodRescue — Food Redistribution Platform
 
-### 🍳 CookSmart
-
-**AI Recipe Assistant**
-
-An AI-powered cooking assistant that helps users explore recipe ideas based on ingredients they already have.
-
-</td>
-<td width="50%" valign="top">
-
-### 🍱 FoodRescue
-
-**Food Redistribution Platform**
-
-A project focused on connecting surplus food with people and organisations that can benefit from it.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A project concept focused on connecting food availability with people or organizations that can benefit from surplus food.
 
 ### 📸 AI-Powered Photo Search
 
-**Natural-Language Image Discovery**
+An AI-assisted photo album search concept that helps users find relevant images using natural-language queries.
 
-An AI-assisted photo album search concept that helps users find relevant images through natural-language queries.
-
-</td>
-<td width="50%" valign="top">
-
-### ⌚ Mining Safety Wearable
-
-**IoT-Based Worker Safety**
-
-A wearable safety concept using sensors and wireless communication to support alerts in mining environments.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[Explore My GitHub Repositories →](https://github.com/A-SABARISHWARAN?tab=repositories)**
-
-</div>
+*Explore my GitHub repositories for source code, implementation details, and project updates.*
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-SABARISHWARAN&show_icons=true&hide_border=true&theme=transparent)
 
-<a href="https://github.com/A-SABARISHWARAN">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=A-SABARISHWARAN&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics"/>
-</a>
-<a href="https://github.com/A-SABARISHWARAN">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-SABARISHWARAN&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=A-SABARISHWARAN&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-SABARISHWARAN&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-## 🎯 Current Goals
+## 🎯 What I'm Working Towards
 
-- 📚 Improve my Data Structures and Algorithms skills
-- 💡 Build meaningful projects with clean, maintainable code
-- 🌐 Strengthen my full-stack and backend development skills
-- 🧩 Develop a deeper understanding of core Computer Science subjects
-- 🚀 Prepare for software engineering internships and placement opportunities
+- Strengthening Data Structures & Algorithms through consistent practice
+- Building useful, well-structured software projects
+- Improving full-stack development and backend engineering skills
+- Deepening my understanding of core Computer Science subjects
+- Preparing for software engineering internships and placement opportunities
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, sharing ideas, and collaborating on projects that create meaningful impact.
+I'm always interested in learning, collaborating on meaningful projects, and connecting with fellow developers.
 
-<div align="center">
+- 💻 [GitHub](https://github.com/A-SABARISHWARAN)
+- 🌐 [Rehab Nexus Demo](https://rehab-nexus.netlify.app/)
 
-<a href="https://github.com/A-SABARISHWARAN">
-  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://rehab-nexus.netlify.app/">
-  <img src="https://img.shields.io/badge/Rehab%20Nexus-Visit%20Project-0F766E?style=for-the-badge&logo=netlify&logoColor=white" alt="Rehab Nexus"/>
-</a>
-
-<br/><br/>
+---
 
 *“Build with curiosity. Learn by doing. Improve with every iteration.”* 🚀
-
-</div>
